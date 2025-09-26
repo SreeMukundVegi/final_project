@@ -1,0 +1,1 @@
+from final_project.emotion_detection import emotion_detector
